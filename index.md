@@ -1,67 +1,10 @@
+## What is Stringism?
 
-                              
-<div>                              
-             MMMM             
-            MMMMMM            
-           jMMMMMMM           
-           MMMMMMMM           
-           MMMMMMMM           
-           MMMMMMMM           
-           EMMMMMMM
-  fMMM      MMMMMM      MMMW  
-  MMMMMMf   MMMMMM    MMMMMM  
- MMMMMMMMM. :MMMMD  MMMMMMMMM 
- MMM MMMMMMMMMMMMMMMMMMMM .MM 
- MM  DMMMMMMMMMMMMMMMMMMM  MM 
- MM  MMM tMMMMMMMMMMK MMM  MM 
- MM  MM   MMMMMMMMMM   MM  MM 
- :M  MM   MMMMMMMMMM   MM  MM 
-  M  MM   MM  MM  MM   MM  M  
-  M  MM   MK  MM  .M   MM  M  
-  M  iM   M   MM   M   MM  M  
-  E   M   M   MM   M   M   M  
-      M   M   MM   M   M      
-          M   MM   M   L      
-          M   MM   M          
-              LM              
-               K              
-</div>                              
-              
+Stringism is a relgion that centers around free will and how state and corporate surveillance seek to hinder and inhibit free will while at the same time creating the illusion of free will when in fact one's actions are directly or indirectly guided by those institutions. This not only hurts the individual, but society as a whole.
 
-## Welcome to GitHub Pages
+The impact has been noted by several studies. For a quick read defer to this [Electronic Frontier Foundation article](https://www.eff.org/deeplinks/2016/05/when-surveillance-chills-speech-new-studies-show-our-rights-free-association).
 
-You can use the [editor on GitHub](https://github.com/stringism/stringism.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## How can I fight back against surveillance?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There are numerous guides out there, although a lot are somewhat dated like the EFF's being from circa 2010. Both [DEF CON 25 Crypto Village - J0n J4rv1s - Surveillance Capitalism Will Continue til Morale Improves](https://www.youtube.com/watch?v=hn5VN72ZjDE&list=PL9fPq3eQfaaBzKPAhNBGbeLcRQbC7M59x&index=18) and [DEF CON 25 Crypto Village - Lauren Rucker - Have You Seen My Naked Selfies Neither Has [...]](https://www.youtube.com/watch?v=OYxI43Zb-Fs) provide recent, great coverage on means of surveillance and countering it.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stringism/stringism.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
