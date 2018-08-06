@@ -1,6 +1,6 @@
 ## What is Stringism?
 
-Stringism is a relgion that centers around free will and how state and corporate surveillance seek to hinder and inhibit free will while at the same time creating the illusion of free will when in fact one's actions are directly or indirectly guided by those institutions. This not only hurts the individual, but society as a whole.
+Stringism is a religion that centers around free will and how state and corporate surveillance seek to hinder and inhibit free will while at the same time creating the illusion of free will when in fact one's actions are directly or indirectly guided by those institutions. This not only hurts the individual, but society as a whole.
 
 The impact has been noted by several studies. For a quick read defer to this [Electronic Frontier Foundation article](https://www.eff.org/deeplinks/2016/05/when-surveillance-chills-speech-new-studies-show-our-rights-free-association). For a quick read about digital privacy and the interdependency of freedom, security, and privacy read [this article from Purism](https://puri.sm/posts/why-freedom-is-essential-to-security-and-privacy/).
 
