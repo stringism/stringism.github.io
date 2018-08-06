@@ -1,58 +1,31 @@
-                                                                                                    
-                                             -+syhhys+-`                                            
-                                          .omMMMMMMMMMMNy/                                          
-                                        `yNMMMMMMMMMMMMMMMd/                                        
-                                       -mMMMMMMMMMMMMMMMMMMMy`                                      
-                                      :NMMMMMMMMMMMMMMMMMMMMMh                                      
-                                     `mMMMMMMMMMMMMMMMMMMMMMMMo                                     
-                                     sMMMMMMMMMMMMMMMMMMMMMMMMN.                                    
-                                     mMMMMMMMMMMMMMMMMMMMMMMMMM:                                    
-                                     mMMMMMMMMMMMMMMMMMMMMMMMMM/                                    
-                                     dMMMMMMMMMMMMMMMMMMMMMMMMM-                                    
-                                     oMMMMMMMMMMMMMMMMMMMMMMMMm`                                    
-                                     `mMMMMMMMMMMMMMMMMMMMMMMM/                                     
-          .-----..`                   -mMMMMMMMMMMMMMMMMMMMMMo                    `..---..`         
-       -ohmNMMMNNmdho/-.               -mMMMMMMMMMMMMMMMMMMMo               `.:+shdmNNMNNmds-       
-      oNMMMMMMMMMMMMMMMmho-.            :NMMMMMMMMMMMMMMMMMo            `./sdNMMMMMMMMMMMMMMNy.     
-     sMMMMMMMMMMMMMMMMMMMMMmh+-`         sMMMMMMMMMMMMMMMMd`        `./sdNMMMMMMMMMMMMMMMMMMMMd.    
-    :MMMMMMMMMMMMMMMMMMMMMMMMMMds/.`     -MMMMMMMMMMMMMMMM+      `-ohNMMMMMMMMMMMMMMMMMMMMMMMMMy    
-    yMMMMMMMNmmNMMMMMMMMMMMMMMMMMMNds+:-:yMMMMMMMMMMMMMMMMd:.-/oymMMMMMMMMMMMMMMMMMMMNmNMMMMMMMM`   
-    NMMMMMMm:``:yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd/.`-yMMMMMMM/   
-    MMMMMMm.     -mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+`     yMMMMMM+   
-    NMMMMM/       hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM-      .NMMMMM+   
-    dMMMMN`      `MMMMMMMMNhyydNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNhyymMMMMMMMMo       sMMMMM:   
-    yMMMMh       -MMMMMMMy.    .+mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNo-     /NMMMMMMh       :MMMMM.   
-    /MMMM+       :MMMMMMh        yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.       /MMMMMMd       .NMMMm    
-    .MMMM-       +MMMMMM.        mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:        dMMMMMd        mMMMs    
-     dMMM.       /MMMMMd        `NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+        +MMMMMd        dMMM-    
-     +MMN`       :MMMMMs        .MMMMMMMs-.:yNMMMMMMMMMd+.-+NMMMMMMo        -MMMMMh        hMMd     
-     `MMN`       -MMMMM+        .MMMMMM+     `hMMMMMMN-     -NMMMMMy        .MMMMMy        yMM+     
-      yMN`       `MMMMM+        -MMMMMh       +MMMMMMd       /MMMMMh        .MMMMMo        yMN`     
-      -MM.        mMMMMo        -MMMMM-       :MMMMMMy        NMMMMh        .MMMMM-        yMs      
-       yM.        sMMMMs        -MMMMm        .MMMMMM+        sMMMMh        .MMMMm         yN.      
-       -M-        -MMMMh        -MMMMy        `NMMMMM:        /MMMMy        :MMMM+         ds       
-        y:         yMMMm        .MMMM+         dMMMMM.        .MMMM+        +MMMm`         y`       
-        ``         .NMMM`       `mMMM:         yMMMMN`        `NMMM-        sMMM:          .        
-                    :NMM:        yMMM-         oMMMMd         `NMMm`        dMMo                    
-                     :NMo        :MMM-         /MMMMy          mMMs        `MMs                     
-                      :md         dMM-         -MMMMo          mMN.        +N+                      
-                       .y.        :MM-         `MMMM/          mMs         o-                       
-                                   oM:          mMMM-         `Nh`         `                        
-                                    o+          hMMM`         .y`                                   
-                                     `          sMMN          ``                                    
-                                                +MMh                                                
-                                                :MMs                                                
-                                                .MM+                                                
-                                                `NM-                                                
-                                                 mN`                                                
-                                                 hm                                                 
-                                                 sh                                                 
-                                                 /o                                                 
-                                                 -/                                                 
-                                                  `                                                 
-                                                                                                                                                    
-                                                                                                                     
+<p style="text-align: center;"> 
 
+                      `://:`                      
+                    -hMMMMMMd/                    
+                   +MMMMMMMMMMy                   
+                  -MMMMMMMMMMMM+                  
+                  +MMMMMMMMMMMMy                  
+                  :MMMMMMMMMMMMo                  
+     .--.          yMMMMMMMMMMd`         `--.     
+   sNMMMMMmh+-      hMMMMMMMMd`     ./ydNMMMMNs`  
+  sMMMMMMMMMMMNy+.  .MMMMMMMM:  `/ymMMMMMMMMMMMh  
+  NMMN//dMMMMMMMMMNdmMMMMMMMMNdmMMMMMMMMMm+/dMMM. 
+  MMM-   mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.  `NMM- 
+  dMm   `MMMd-`:yMMMMMMMMMMMMMMMMd:..yMMM/   yMM` 
+  sMy   -MMM`   +MMMMMMMMMMMMMMMMy    mMM/   +Md  
+  -Mo   .MMd    sMMN+/yMMMMh//NMMd    yMM/   /M+  
+   do    MMh    sMM/   hMMN   -MMm    sMM-   /N`  
+   :s    dMd    yMN    sMMh    dMm    sMm    /o   
+    /    :MN    sMh    /MMs    sMh    hM+    :`   
+          oM.   :Ms    -MM/    oM+    Ny          
+           ++    ms    `MM-    +N`   -s           
+                 -s     NM`    o:                 
+                  `     dN     `                  
+                        yd                        
+                        os                        
+                        :+                        
+                        .-                        
+</p>                 
 
 
 ## Welcome to GitHub Pages
